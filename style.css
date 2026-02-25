@@ -118,17 +118,17 @@ header {
     backdrop-filter: blur(10px);
 }
 
-.header-left { display: flex; align-items: center; gap: 15px; }
+.header-left { display: flex; align-items: center; gap: 10px; }
 
-.marca { display: flex; align-items: center; gap: 10px; }
+.marca { display: flex; align-items: center; gap: 2px; }
 
 #logo { width: 32px; height: 32px; border-radius: 6px; object-fit: cover; }
 
 h1 { font-size: 1.1rem; font-weight: 700; }
 img {
     border-radius: 50%;
-    height: 230px;
-    width: 230px;
+    height: 100px;
+    width: 100px;
     object-fit: cover;
 }
 
